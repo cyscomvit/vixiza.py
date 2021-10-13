@@ -47,4 +47,5 @@ for i in getModal:
         pass
 
 profile["Events"] = events
+print('hi')
 print(profile)
